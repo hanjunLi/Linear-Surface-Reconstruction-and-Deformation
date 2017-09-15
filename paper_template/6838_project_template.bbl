@@ -1,0 +1,16 @@
+\begin{thebibliography}{\uppercase{WLT12}}
+
+\bibitem[BS08]{botsch2008linear}
+\textsc{Botsch M., Sorkine O.}:
+\newblock On linear variational surface deformation methods.
+\newblock \emph{IEEE transactions on visualization and computer graphics 14}, 1
+  (2008), 213--230.
+
+\bibitem[WLT12]{wang2012linear}
+\textsc{Wang Y., Liu B., Tong Y.}:
+\newblock Linear surface reconstruction from discrete fundamental forms on
+  triangle meshes.
+\newblock In \emph{Computer Graphics Forum} (2012), vol.~31, Wiley Online
+  Library, pp.~2277--2287.
+
+\end{thebibliography}
